@@ -2,37 +2,38 @@
 
 ### MSc Information Technology Student | Aspiring Machine Learning Engineer
 
-I'm pursuing a Master's degree in Information Technology at **Brno University of Technology**. I'm focused on building a strong foundation in machine learning and AI, while developing the software engineering skills needed to turn models into useful applications.
+I'm pursuing a Master's degree in Information Technology at **Brno University of Technology**. I enjoy building practical machine learning and AI applications while strengthening the software engineering skills needed to make them reliable and useful.
 
-I'm particularly interested in **machine learning, deep learning, NLP, and LLM-powered systems**. My long-term goal is to work on intelligent systems and pursue research in AI.
+My interests include **machine learning, deep learning, natural language processing, and LLM-powered systems**. Long term, I aim to contribute to AI research and pursue a PhD.
 
-## What I'm working on
+## Current focus
 
 - Building and evaluating practical machine learning systems
-- Exploring retrieval-augmented generation (RAG) and LLM applications
-- Strengthening my foundations in deep learning, NLP, mathematics, and algorithms
-- Improving software engineering practices: testing, APIs, Docker, and reproducible experiments
+- Learning more about deep learning, NLP, and large language models
+- Exploring retrieval-augmented generation (RAG) and document question-answering
+- Strengthening foundations in mathematics, algorithms, and software engineering
+- Practising testing, API development, Docker, and reproducible experiments
 
 ## Featured projects
 
 ### [Customer Churn Prediction System](https://github.com/aliheydar-gachabayov/Customer-Churn-Prediction-System)
-An end-to-end customer churn prediction application.
-- Scikit-learn pipelines, preprocessing, cross-validation, and threshold selection
-- Model evaluation and comparison
-- FastAPI prediction endpoint, input validation, tests, and Docker
+An end-to-end machine learning project for predicting customer churn.
+- Scikit-learn preprocessing pipelines and model evaluation
+- Cross-validation and decision-threshold selection
+- FastAPI prediction endpoint, input validation, automated tests, and Docker
 
 ### [RAG-Based AI Document Assistant](https://github.com/aliheydar-gachabayov/RAG-Based-AI-Document-Assistant)
-A PDF question-answering application using retrieval-augmented generation.
-- PDF text extraction and overlapping text chunks
-- Sentence Transformers embeddings and FAISS similarity search
+A document question-answering application built with retrieval-augmented generation.
+- PDF text extraction and overlapping text chunking
+- Sentence Transformers embeddings and FAISS vector search
 - Local answer generation with Ollama
 - FastAPI backend with source-page references
 
 ### [Movies & Series Ranking App](https://github.com/aliheydar-gachabayov/movies-series-ranking-app)
-A responsive web application that ranks movies and TV series using rating, vote count, and popularity signals.
+A browser-based application for discovering and ranking movies and TV series.
 - TMDB API integration
-- Custom weighted ranking formula
-- Search, filters, sorting, and favourites
+- Custom normalized ranking using ratings, vote counts, and popularity
+- Search, genre and media-type filters, sorting, and favourites
 
 ## Technologies I've used
 
@@ -42,7 +43,7 @@ A responsive web application that ranks movies and TV series using rating, vote 
 
 **AI & Retrieval:** Ollama, FAISS, retrieval-augmented generation (RAG)
 
-**Backend:** FastAPI, Pydantic, REST APIs
+**Backend & APIs:** FastAPI, Pydantic, REST APIs
 
 **Tools:** Git, GitHub, Docker
 
