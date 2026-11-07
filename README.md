@@ -19,7 +19,7 @@ My interests include **machine learning, deep learning, natural language process
 ### [Customer Churn Prediction System](https://github.com/aliheydar-gachabayov/Customer-Churn-Prediction-System)
 An end-to-end machine learning project for predicting customer churn.
 - Scikit-learn preprocessing pipelines and model evaluation
-- Cross-validation and decision-threshold selection
+- Stratified train/test evaluation and baseline model comparison
 - FastAPI prediction endpoint, input validation, automated tests, and Docker
 
 ### [RAG-Based AI Document Assistant](https://github.com/aliheydar-gachabayov/RAG-Based-AI-Document-Assistant)
